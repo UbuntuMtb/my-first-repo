@@ -1,2 +1,3 @@
-Welcome to My Git Repository
+Welcome to My First Repo
 Learning Git is going well so far.
+The third line.
