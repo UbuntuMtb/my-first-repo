@@ -1,0 +1,29 @@
+commit 93b51ab84abde2d2aefb5a36b9dce06185fa832c
+Author: UbuntuMtb <renesg2012@gmail.com>
+Date:   Sun Jul 21 16:47:29 2019 -0700
+
+    Updated .gitignore
+
+commit 1bcbf52063127d3060e1dd03571f9664ac7e05db
+Author: UbuntuMtb <renesg2012@gmail.com>
+Date:   Sun Jul 21 16:40:49 2019 -0700
+
+    added gitignore
+
+commit 8fbe4c4459ce79eedbdfe8a7347c06ae8395605f
+Author: UbuntuMtb <renesg2012@gmail.com>
+Date:   Sun Jul 21 16:32:17 2019 -0700
+
+    Fixed readme.txt
+
+commit bd8b4abbb241e3303827c85eabde2e1c782943f7
+Author: UbuntuMtb <renesg2012@gmail.com>
+Date:   Sat Jul 20 17:01:41 2019 -0700
+
+    added two files
+
+commit c6ea9fabb037c9a8ed49f677328946dbb2e9e22d
+Author: UbuntuMtb <renesg2012@gmail.com>
+Date:   Sat Jul 20 16:52:48 2019 -0700
+
+    added readme.txt
