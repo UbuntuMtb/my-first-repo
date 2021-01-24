@@ -11,6 +11,7 @@ Three of my favorite books are:
 - *Deep Nutrition* by Catherine Shanahan 
 - *The Mountain Bike Training Bible* by Joe Friel
 - *Cosmos* by Carl Sagan
+- *Operating Systems, Three Easy Pieces.
 
 ### Food
 
